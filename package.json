@@ -1,0 +1,15 @@
+{
+  "name": "alexa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "billyeatcookies",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-bot-api": "^0.2.1",
+    "discord.js": "^12.5.1"
+  }
+}
