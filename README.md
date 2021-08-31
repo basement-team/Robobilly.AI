@@ -1,5 +1,4 @@
-# Discord Chat Bot
-
+# Robobilly.AI
 Artificial Intelligence based Chat Bot for discord.
 
 
